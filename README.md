@@ -28,4 +28,4 @@ University of Moratuwa
 
 ![Circuit Diagram](OverallProject.jpeg)
 
-
+![Circuit Diagram](CircuitDiagram.png)
