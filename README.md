@@ -25,3 +25,10 @@ This project is a Digital Signal Processing (DSP) based Advanced Light Intensity
 ## Author
 Electrical Engineering Undergraduate  
 University of Moratuwa
+## Circuit Diagram
+
+![Circuit Diagram](OverallProject.jpg)
+
+## Final Output
+
+![Final Output](OverallProject(1).jpg)
