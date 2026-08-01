@@ -22,7 +22,8 @@ This project is a Digital Signal Processing (DSP) based Advanced Light Intensity
 - Circuit Diagram
 - Hardware Images
 
-## Author
+## Grop Members
+Isuru Umayangana , Pivithuru Thennakoon , Thinal Thilakarathne
 Electrical Engineering Undergraduate  
 University of Moratuwa
 
