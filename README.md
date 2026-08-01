@@ -22,11 +22,11 @@ This project is a Digital Signal Processing (DSP) based Advanced Light Intensity
 - Circuit Diagram
 - Hardware Images
 
-## Grop Members
-Isuru Umayangana , Pivithuru Thennakoon , Thinal Thilakarathne
-Electrical Engineering Undergraduate  
-University of Moratuwa
+**Group Members**
 
+Isuru Umayangana, Pivithuru Thennakoon, Thinal Thilakarathne<br>
+Electrical Engineering Undergraduate<br>
+University of Moratuwa
 ![Circuit Diagram](OverallProject.jpeg)
 
 ![Circuit Diagram](CircuitDiagram.png)
